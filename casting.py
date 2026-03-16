@@ -1,3 +1,4 @@
+#casting of data types
 a= str(99)
 b= int(99)
 c= float(99)
