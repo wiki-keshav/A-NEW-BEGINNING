@@ -1,3 +1,4 @@
+#Data types
 a= 99
 b= 99.0
 c= "keshav"
