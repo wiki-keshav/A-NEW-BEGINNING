@@ -1,4 +1,4 @@
-#Strings are array
+#Strings characters in array
 a= "KESHAV"
 print(a[3])
 #for Loop on strings
