@@ -1,3 +1,4 @@
+#declare a variable global
 x =  "awesome"
 def myfunc():
     global x  # variable x declared as global
